@@ -1,0 +1,41 @@
+/* body */
+body {
+    background-color: #FFF;   /* bgc#fff */
+    color: #555;              /* c#555 */
+}
+
+/* header */
+header {
+    background-color: #002171; /* bgc#002171 */
+    color: #FFF;               /* c#fff */
+}
+
+/* nav */
+nav {
+    background-color: #BBDEFB; /* bgc#bbdefb */
+}
+
+/* h1 */
+h1 {
+    margin-bottom: 0;          /* mb:0 */
+}
+
+/* h2 */
+h2 {
+    color: #1976D2;            /* c#1976d2 */
+}
+
+/* dt */
+dt {
+    color: #002171;            /* c#002171 */
+}
+
+/* address */
+address {
+    font-style: normal;        /* fs:normal */
+}
+
+/* .resort */
+.resort {
+    color: #1976D2;            /* c#1976d2 */
+}
